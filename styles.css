@@ -109,15 +109,18 @@ section {
     width: 35%;
 }
 .footerimagetext {
+    width: 65%;
 }
 
 footer {
     display: flex;
-    align-items: flex-end;
-    position: static;
 }
 footer img {
     height: auto;
     width: 30px;
     margin: 10px;
+}
+.copyright {
+    font-size: 11px;
+    align-items: flex-end;
 }
