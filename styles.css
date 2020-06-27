@@ -104,16 +104,11 @@ section {
 }
 .footer {
     display: flex;
-    /* flex-direction: column;
-    flex: 1; */
 }
-.footerimage {
-    flex-direction: column;
+.footer img {
+    padding-right: 15px;
     height: auto;
-    width: 35%;
-}
-.footerimagetext {
-    width: 65%;
+    width: 30%;
 }
 
 footer {
